@@ -1,2 +1,2 @@
 # js13k-rewire
-My entry for the js13kGames 2018 Development Competition
+My entry for the js13kGames 2018 Development Competition (https://js13kgames.com/)
