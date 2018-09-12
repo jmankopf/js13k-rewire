@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "none",
+    "outFile": "./dist/app.js",
+    "strict": true,
+    "esModuleInterop": true,
+    "inlineSourceMap": true,
+    "inlineSources": true
+  }
+}
